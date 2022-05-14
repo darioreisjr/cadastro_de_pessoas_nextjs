@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.left__titulo {
+    color: #77ffc0;
+    font-family: 'Anton', sans-serif;
+    font-size: 3vw;
+    line-height: 4vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .left__titulo {
+        display: none;
+    }
+}

@@ -1,0 +1,14 @@
+.right__login {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 50vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .right__login {
+        height: auto;
+        width: 100%;
+    }
+}

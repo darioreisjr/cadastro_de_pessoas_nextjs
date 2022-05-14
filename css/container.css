@@ -1,0 +1,15 @@
+.container {
+    align-items: center;
+    background: #201b2c;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        flex-direction: column; 
+        gap: 20px;
+     }
+}
