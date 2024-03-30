@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
-
-.card__titulo {
-    color: #00ff88;
-    font-family: 'PT Mono', monospace;
-    font-size: 4vw;
-    font-weight: 300;
-    margin: 0;
-}

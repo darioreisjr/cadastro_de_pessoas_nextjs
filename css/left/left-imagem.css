@@ -1,9 +1,0 @@
-.left__imagem {
-    width: 35vh;
-}
-
-@media only screen and (max-width: 600px) {
-    .left__imagem {
-        width: 50vw;
-    }
-}
